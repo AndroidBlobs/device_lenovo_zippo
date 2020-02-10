@@ -1,3 +1,3 @@
-require version-baseband=1.0.c1-00365-SM8150_GEN_PACK-1.204288.1.206604.1
-require version-modem=2019-08-1005:09:00
-require version-vendor=1565385774
+require version-baseband=1.0.c1-00365-SM8150_GEN_PACK-1.198743.1.204288.1
+require version-modem=2019-10-1816:57:14
+require version-vendor=1571390281
