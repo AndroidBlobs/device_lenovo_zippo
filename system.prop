@@ -221,7 +221,7 @@ persist.sys.build.inter.zui=true
 #ro.boot.hardware.sku=2018CP
 #add OTA model
 ro.product.ota.model=Lenovo78051_ROW_ST
-ro.external.version.code=11.0.350
-ro.product.sw.internal.version=L78051_ROW_SEC_USER_11.0.350_ST_191018
+ro.external.version.code=11.0.405
+ro.product.sw.internal.version=L78051_ROW_SEC_USER_11.0.405_ST_191210
 
 #

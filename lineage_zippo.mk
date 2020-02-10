@@ -17,7 +17,7 @@ PRODUCT_MODEL := Lenovo Z6 Pro
 PRODUCT_GMS_CLIENTID_BASE := android-lenovo
 TARGET_VENDOR := lenovo
 TARGET_VENDOR_PRODUCT_NAME := zippo
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="zippo_row-user 9 PKQ1.190110.001 11.0.350_191018 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="zippo_row-user 9 PKQ1.190110.001 11.0.405_191210 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := Lenovo/zippo_row/zippo:9/PKQ1.190110.001/11.0.350_191018:user/release-keys
+BUILD_FINGERPRINT := Lenovo/zippo_row/zippo:9/PKQ1.190110.001/11.0.405_191210:user/release-keys
